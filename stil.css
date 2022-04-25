@@ -1,0 +1,73 @@
+body{
+	text-align: center;
+	line-height: 0;
+	background-color: #1c1c1c;
+}
+
+.main {
+
+}
+.backimg {
+	position: relative;
+	height: 720px;
+	width: 1280px;
+	
+}
+
+.logo {
+	height: 250px;
+	width: 600px;
+	position: absolute;
+	right: 240px;
+	top: 100px;
+}
+
+.news {
+	position: absolute;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 140px;
+	top: 850px;
+	left: 150px;
+}
+
+.galerey {
+	position: absolute;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 140px;
+	top: 1550px;
+	left: 170px;
+}
+
+.gameplay {
+	position: absolute;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 100px;
+	top: 2350px;
+	right: 150px;
+}
+
+.time {
+	position: absolute;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 100px;
+	top: 3050px;
+	right: 150px;
+	line-height: 100px;
+	text-align: left;
+}
+
+footer{
+	height: 50px;
+	margin-top: 160px;
+}
+
+.link {
+	color: white;
+	display: inline-block;
+	top: 500px;
+	font-size: 15px;
+}
